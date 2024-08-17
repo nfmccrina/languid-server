@@ -1,1 +1,5 @@
 **/dist
+**/bin
+**/obj
+**/*.swp
+**/appsettings.Production.json
